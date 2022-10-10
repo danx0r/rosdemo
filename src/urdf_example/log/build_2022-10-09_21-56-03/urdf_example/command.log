@@ -1,0 +1,6 @@
+Invoking command in '/home/dbm/urdf_example/build/urdf_example': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/foxy /usr/bin/cmake /home/dbm/urdf_example -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/dbm/urdf_example/install/urdf_example
+Invoked command in '/home/dbm/urdf_example/build/urdf_example' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/foxy /usr/bin/cmake /home/dbm/urdf_example -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/dbm/urdf_example/install/urdf_example
+Invoking command in '/home/dbm/urdf_example/build/urdf_example': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/foxy /usr/bin/cmake --build /home/dbm/urdf_example/build/urdf_example -- -j8 -l8
+Invoked command in '/home/dbm/urdf_example/build/urdf_example' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/foxy /usr/bin/cmake --build /home/dbm/urdf_example/build/urdf_example -- -j8 -l8
+Invoking command in '/home/dbm/urdf_example/build/urdf_example': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/foxy /usr/bin/cmake --install /home/dbm/urdf_example/build/urdf_example
+Invoked command in '/home/dbm/urdf_example/build/urdf_example' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/foxy /usr/bin/cmake --install /home/dbm/urdf_example/build/urdf_example

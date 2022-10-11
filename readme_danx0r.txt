@@ -1,6 +1,9 @@
 F-Troop: ros2 foxy, ubu focal
 also tested on humble/jammy
 
+run somewhere:
+devilspie2 devilspie2
+
 bashrc should set up ROS2 paths /opt/ros/foxy/setup.bash
 
 demo0.sh compiles

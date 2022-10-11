@@ -1,4 +1,8 @@
+F-Troop: ros2 foxy, ubu focal
+
 bashrc should set up ROS2 paths /opt/ros/foxy/setup.bash
+
+source source_me in bash (before fish)
 
 demo0.sh compiles
 

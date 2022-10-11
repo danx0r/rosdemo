@@ -1,11 +1,11 @@
 #!/usr/bin/env bash
 
-terminator --geometry 800x900+20+1100 -e ./demo1.sh &
+terminator -T "gazebo server&client" --geometry 800x900+20+1100 -e "./demo1.sh; bash" &
 
 sleep 12
 
-terminator --geometry 800x900+1720+1100 -e ./demo2.sh &
+terminator -T "rviz2" --geometry 800x900+1720+1100 -e "./demo2.sh; bash" &
 
 sleep 12
 
-terminator --geometry 800x900+2540+1100 -e "./demo3.sh; bash" &
+terminator -T "message to move arm" --geometry 800x900+2540+1100 -e "./demo3.sh; bash" &

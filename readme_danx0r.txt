@@ -6,7 +6,6 @@ devilspie2 devilspie2
 
 bashrc should set up ROS2 paths /opt/ros/foxy/setup.bash
 
-demo0.sh compiles
 first time, source source_me in bash
 
 demo1.sh runz gazebo

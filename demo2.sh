@@ -1,3 +1,4 @@
+#!/usr/bin/env bash
 #run arviz
 
 echo "set world, add camera"

@@ -1,3 +1,5 @@
+https://www.youtube.com/watch?v=2lIV3dRvHmQ&list=PLunhqkrRNRhYYCaSTVP-qJnyUPkTxJnBt
+
 F-Troop: ros2 foxy, ubu focal
 also tested on humble/jammy
 

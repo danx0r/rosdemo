@@ -34,7 +34,7 @@
         <visual>
             <origin xyz="0 0 0.05" rpy="0 0 0"/>
             <geometry>
-                <box size="2.5 1.5 0.1" />
+                <box size="1.5 1.5 0.1" />
             </geometry>
             <material name="purple">
                 <color rgba="0.9 .1 0.8 1"/>
@@ -112,8 +112,8 @@
     <!-- - The visual/collision origin is set to halfway along the length (similar to the box), but also with a rotation (again using the mathematical features). -->
     <!--   This is because the cylinder extends along the Z axis by default, but we want it to be along the X axis (when the joint is at 0) -->
 
-    <xacro:property name="arm_length" value="2" />
-    <xacro:property name="arm_radius" value="0.02" />
+    <xacro:property name="arm_length" value="1" />
+    <xacro:property name="arm_radius" value="0.04" />
     <link name="arm_link">
         <visual>
             <origin xyz="${arm_length/2} 0 0" rpy="0 ${pi/2} 0"/>

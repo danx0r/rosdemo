@@ -772,7 +772,7 @@
           </geometry>
           <material>
             <script>
-              <name>Gazebo/Pink</name>
+              <name>Gazebo/Wood</name>
               <uri>file://media/materials/scripts/gazebo.material</uri>
             </script>
           </material>

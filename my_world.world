@@ -723,11 +723,11 @@
       <device>default</device>
     </audio>
     <model name='my_bot'>
-      <joint name='base_joint' type='fixed'>
-        <pose relative_to='__model__'>1.5 1 0 0 -0 0</pose>
-        <parent>world</parent>
-        <child>base_link</child>
-      </joint>
+<!--      <joint name='base_joint' type='fixed'>-->
+<!--        <pose relative_to='__model__'>1.5 1 0 0 -0 0</pose>-->
+<!--        <parent>world</parent>-->
+<!--        <child>base_link</child>-->
+<!--      </joint>-->
       <link name='base_link'>
         <pose relative_to='base_joint'>0 0 0 0 -0 0</pose>
         <inertial>
